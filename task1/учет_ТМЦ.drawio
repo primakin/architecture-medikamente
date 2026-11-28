@@ -1,0 +1,49 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="4gVxpwKyk6D3OnhT9de7">
+    <mxGraphModel dx="1990" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="So4I95MamNvL2nF2BGdU-12" edge="1" parent="1" source="So4I95MamNvL2nF2BGdU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="So4I95MamNvL2nF2BGdU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FajDChR_0T-jyHhrM0--1" connectable="0" parent="So4I95MamNvL2nF2BGdU-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Сведения&lt;br&gt;о ТМЦ" vertex="1">
+          <mxGeometry relative="1" x="-0.0797" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="So4I95MamNvL2nF2BGdU-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Сотрудник склада" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="So4I95MamNvL2nF2BGdU-13" edge="1" parent="1" source="So4I95MamNvL2nF2BGdU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="So4I95MamNvL2nF2BGdU-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FajDChR_0T-jyHhrM0--2" connectable="0" parent="So4I95MamNvL2nF2BGdU-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Сведения&lt;br&gt;о ТМЦ" vertex="1">
+          <mxGeometry relative="1" x="0.0037" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="So4I95MamNvL2nF2BGdU-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Учет ТМЦ" vertex="1">
+          <mxGeometry height="120" width="120" x="240" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HQYpwYRptWDbtkOVAS7Z-5" edge="1" parent="1" source="So4I95MamNvL2nF2BGdU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="HQYpwYRptWDbtkOVAS7Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="So4I95MamNvL2nF2BGdU-7" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=#ffe6cc;routingCenterX=-0.5;rotation=90;horizontal=0;strokeColor=#d79b00;" value="Складская система учета" vertex="1">
+          <mxGeometry height="200" width="40" x="520" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="HQYpwYRptWDbtkOVAS7Z-3" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=#ffe6cc;routingCenterX=-0.5;rotation=90;horizontal=0;strokeColor=#d79b00;" value="Бухгалтерская система учета" vertex="1">
+          <mxGeometry height="200" width="40" x="520" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="HQYpwYRptWDbtkOVAS7Z-6" edge="1" parent="1" source="HQYpwYRptWDbtkOVAS7Z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="HQYpwYRptWDbtkOVAS7Z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQYpwYRptWDbtkOVAS7Z-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Обмен данными" vertex="1">
+          <mxGeometry height="120" width="120" x="480" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

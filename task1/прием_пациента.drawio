@@ -1,0 +1,49 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="4gVxpwKyk6D3OnhT9de7">
+    <mxGraphModel dx="2388" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F13oZWA1DtI18n-fRqfB-10" edge="1" parent="1" source="F13oZWA1DtI18n-fRqfB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="F13oZWA1DtI18n-fRqfB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F13oZWA1DtI18n-fRqfB-11" edge="1" parent="1" source="F13oZWA1DtI18n-fRqfB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="F13oZWA1DtI18n-fRqfB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F13oZWA1DtI18n-fRqfB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Специалист" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="F13oZWA1DtI18n-fRqfB-2" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=#ffe6cc;routingCenterX=-0.5;rotation=90;horizontal=0;strokeColor=#d79b00;" value="Журнал приема специалиста" vertex="1">
+          <mxGeometry height="200" width="40" x="720" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F13oZWA1DtI18n-fRqfB-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Просмотр и редактирование журнала" vertex="1">
+          <mxGeometry height="120" width="120" x="370" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="F13oZWA1DtI18n-fRqfB-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Просмотр и редактирование файлов пациента" vertex="1">
+          <mxGeometry height="120" width="120" x="370" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="F13oZWA1DtI18n-fRqfB-9" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=#ffe6cc;routingCenterX=-0.5;rotation=90;horizontal=0;strokeColor=#d79b00;" value="Файлы пациента" vertex="1">
+          <mxGeometry height="200" width="40" x="720" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="F13oZWA1DtI18n-fRqfB-14" edge="1" parent="1" source="F13oZWA1DtI18n-fRqfB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="F13oZWA1DtI18n-fRqfB-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRwaWEhvvj1dbMLs9kAs-1" connectable="0" parent="F13oZWA1DtI18n-fRqfB-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ПДн пациентов,&lt;div&gt;время записи&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.017" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F13oZWA1DtI18n-fRqfB-16" edge="1" parent="1" source="F13oZWA1DtI18n-fRqfB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="F13oZWA1DtI18n-fRqfB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRwaWEhvvj1dbMLs9kAs-2" connectable="0" parent="F13oZWA1DtI18n-fRqfB-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ПДн пациента" vertex="1">
+          <mxGeometry relative="1" x="0.0887" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
